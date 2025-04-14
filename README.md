@@ -46,12 +46,16 @@ The dataset used for the project consists of 2300 images. All the coding details
 
 ## Getting Started
 
+## Link to streamlit online application
+You can access the online version of the app in the following url: https://deeplearningproject-cardamagerecognition.streamlit.app/
+
 ###  Requirements
 To install all dependencies run the following code 
 
 ```bash
 pip install -r requirements.txt
 ```
+
 ### Run the application
 To execute the application run the following code
 ```bash
