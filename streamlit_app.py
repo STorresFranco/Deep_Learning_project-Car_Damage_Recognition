@@ -107,7 +107,6 @@ st.markdown("""
     - **Output**: The predicted class and the probability distribution across all classes.               
     
     - **Disclaimers**: The dataset of the project consisted of 2300 images.
-            ***
             """
     )
 st.markdown("#### Example Image")
