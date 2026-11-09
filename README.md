@@ -49,6 +49,8 @@ The dataset used for the project consists of 2300 images. All the coding details
 ## Link to streamlit online application
 You can access the online version of the app in the following url: https://deeplearningproject-cardamagerecognition.streamlit.app/
 
+Note: If the project is down, let me know, and I will wake it up as Soon as possible. This happens because the frontend is hosted in streamlit cloud.
+
 ###  Requirements
 To install all dependencies run the following code 
 
